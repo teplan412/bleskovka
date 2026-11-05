@@ -13,8 +13,8 @@ a odpovedajú na otázky na čas. Ročníkový projekt.
 | Adresár | Obsah |
 |---|---|
 | `01_Poziadavky/` | zadanie, roly, funkcionálne a nefunkcionálne požiadavky |
-| `02_Analyza/` | use cases (a use case diagram) |
-| `03_Navrh/` | ERD, schéma databázy, návrh rozhraní |
+| `02_Analyza/` | use cases a use case diagram (`use-case-diagram.png`, zdroj `use-case-diagram.py`) |
+| `03_Navrh/` | ERD, schéma databázy, návrh rozhraní, formáty súborov (`format-suborov.md`) |
 | `04_Implementacia/src/` | zdrojový kód |
 | `05_Testovanie/` | testovacie scenáre a zistené chyby |
 | `06_Dokumentacia/` | používateľská a inštalačná príručka |

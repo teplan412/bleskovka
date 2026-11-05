@@ -1,0 +1,6 @@
+﻿otazka;odpoved_a;odpoved_b;odpoved_c;odpoved_d;spravna;cas
+Koľko bitov má jeden bajt?;4;8;16;32;B;20
+Hlavné mesto Slovenska je…;Košice;Bratislava;Žilina;;B;10
+Python je interpretovaný jazyk.;Pravda;Nepravda;;;A;10
+Ktorý protokol zabezpečuje šifrované webové spojenie?;HTTP;FTP;HTTPS;SMTP;C;30
+Čo vypíše print(2 ** 3)?;6;8;9;23;B;20
